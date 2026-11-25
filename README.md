@@ -42,7 +42,7 @@ import matplotlib.pyplot as plt
 ### Step 2: Read Image
 
 ``` python
-image = cv2.imread("C:/Users/vikam/Downloads/exp8_img.png")
+image = cv2.imread("mukesh.jpeg")
 ```
 
 ### Step 3: Convert to Grayscale
